@@ -1,7 +1,5 @@
 # Basic Blockchain Projects
 
-(https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Block_chain.svg/300px-Block_chain.svg.png)
-
 This repository contains a collection of basic blockchain projects to help you understand the fundamentals of blockchain technology. Whether you're a beginner looking to learn about blockchain or an experienced developer interested in exploring the basics, you'll find useful resources and sample projects here.
 
 ## Table of Contents
@@ -17,6 +15,16 @@ To get started with these basic blockchain projects, follow these steps:
 
 1. Clone this repository to your local machine:
    git clone https://github.com/your-username/basic-blockchain-projects.git
+
+# Projects
+.
+.
+.
+.
+.
+.
+.
+.
 
 # Contributing
 We welcome contributions from the community! If you have improvements or new basic blockchain projects to add, please follow these steps:
