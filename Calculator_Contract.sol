@@ -1,4 +1,4 @@
-// Calculator!" smart contract written in Solidity, which is a popular programming language for creating Ethereum smart contracts:
+// Calculator! Smart contract written in Solidity, which is a popular programming language for creating Ethereum smart contracts:
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
